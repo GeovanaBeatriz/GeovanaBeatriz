@@ -8,6 +8,8 @@ You are the one responsible for your knowledge. Search. Ask. Doubt.
 [![Gmail Badge](https://img.shields.io/badge/-geovana.jesus.154945@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[geovana.jesus.184945@gmail.com](mailto:geovana.jesus.184945@gmail.com))](mailto:geovana.jesus.184945@gmail.com)
 
  Pronouns: (She/her)
+ 
+ 🌱 I’m currently learning Java.
 <!--
 **GeovanaBeatriz/GeovanaBeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
