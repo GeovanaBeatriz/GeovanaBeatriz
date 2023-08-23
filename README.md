@@ -9,7 +9,7 @@ You are the one responsible for your knowledge. Search. Ask. Doubt.
 
  Pronouns: (She/her)
  
- 🌱 I’m currently learning Java.
+ 🌱 I’m currently studying Java and Spring Boot.
 <!--
 **GeovanaBeatriz/GeovanaBeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
